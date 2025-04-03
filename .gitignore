@@ -1,0 +1,13 @@
+model/*.gguf
+model/*.safetensors
+model/*.bin
+
+.DS_Store
+
+__pycache__/
+*.py[cod]
+
+llama-env
+convert_env
+
+
