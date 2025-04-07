@@ -1,5 +1,5 @@
 model/*.gguf
-model/*.safetensors
+
 model/*.bin
 
 .DS_Store
