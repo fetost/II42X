@@ -1,5 +1,5 @@
 model/*.gguf
-
+model/*.safetensors
 model/*.bin
 
 .DS_Store
@@ -9,5 +9,6 @@ __pycache__/
 
 llama-env
 convert_env
+unsloth_env
 
 
