@@ -11,4 +11,7 @@ llama-env
 convert_env
 unsloth_env
 
+.deepeval
+.deepeval_telemetry.txt
+model/.deepeval_telemetry.txt
 
